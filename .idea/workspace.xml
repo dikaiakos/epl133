@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9db8dbba-0ffe-42ea-a083-8d4f688a4355" name="Default" comment="added notes for 10/2">
+    <list default="true" id="9db8dbba-0ffe-42ea-a083-8d4f688a4355" name="Default" comment="updates of 7/3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -151,7 +149,7 @@
       <workItem from="1613122851527" duration="1415000" />
       <workItem from="1617699721236" duration="1291000" />
       <workItem from="1671096900769" duration="4539000" />
-      <workItem from="1678206285830" duration="1574000" />
+      <workItem from="1678206285830" duration="2193000" />
     </task>
     <task id="LOCAL-00001" summary="First draft for Spring 2020">
       <created>1610370616592</created>
@@ -370,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677010877824</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="updates of 7/3">
+      <created>1678210726333</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1678210726333</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +414,8 @@
     <MESSAGE value="updated midterm date" />
     <MESSAGE value="added notes for 10/2" />
     <MESSAGE value="added stuff for 14, 17, 21/2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added stuff for 14, 17, 21/2" />
+    <MESSAGE value="updates of 7/3" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates of 7/3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
